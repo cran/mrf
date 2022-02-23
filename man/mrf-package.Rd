@@ -33,8 +33,9 @@ License: \tab CC BY-NC-SA 4.0\cr
 }
 }
 \references{
-[Stier et al., 2021] Stier, Q.,Gehlert, T. and Thrun, M. C.: Multiresolution Forecasting for
-Industrial Applications, Processess, 2021.
+[Stier et al., 2021] Stier, Q.; Gehlert, T.; Thrun, M.C. Multiresolution
+Forecasting for Industrial Applications. Processes 2021, 9, 1697.
+https://doi.org/10.3390/pr9101697
 }
 \author{
 Quirin Stier

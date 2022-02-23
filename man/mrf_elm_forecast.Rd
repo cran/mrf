@@ -50,7 +50,7 @@ B (Cybernetics), 35(6):1241-1251. doi:10.1109/TSMCB.2005.850182, 2005.
 Quirin Stier
 }
 \examples{
-\dontrun{
+\donttest{
 data(AirPassengers)
 len_data = length(as.vector(array(AirPassengers)))
 UnivariateData = as.vector(AirPassengers)[1:(len_data-1)]
@@ -64,3 +64,4 @@ error = true_value - forecast
 }
 \concept{Neural Networks}
 \concept{Multilayer Perceptron}
+\concept{One-step forecast}
